@@ -30,7 +30,7 @@
   .header-banner{
     padding-top:35px;
     padding-bottom:100px;
-    height: 800px;
+    height: auto;
     color:#ffffff;
     font-family:Helvetica, serif;
     font-weight:100;
